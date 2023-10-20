@@ -1,0 +1,3 @@
+2,ao dai,70,28
+3,giay,120,39
+4,mu luoi trai,200,25
